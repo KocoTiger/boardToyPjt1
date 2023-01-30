@@ -16,7 +16,7 @@
 .git
 .settings
 workspaceSts3/*
-
+.config.properties
 
 
 ### Eclipse ###
